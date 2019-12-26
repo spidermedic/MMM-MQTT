@@ -10,14 +10,12 @@ td {
     padding-right: 5px;
 }
 
-.mqtt-label {
-    
+.mqtt-label, .mqtt-value, .mqtt-suffix {
+    font-size: 20px;
+    line-height: 25px;
 }
 
 .mqtt-value {
-    
+    color: #90EE90;
 }
 
-.mqtt-suffix {
-    
-}
