@@ -2,10 +2,6 @@
 
 Module for [MagicMirror](https://github.com/MichMich/MagicMirror/) showing the payload of a message from MQTT.
 
-## Screenshot
-
-![Screenshot](doc/MQTT.png)
-
 
 ## Installasjon
 
