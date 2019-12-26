@@ -3,7 +3,7 @@
 Module for [MagicMirror](https://github.com/MichMich/MagicMirror/) showing the payload of a message from MQTT.
 
 
-## Installasjon
+## Install
 
 Go to `MagicMirror/modules` and write
 
